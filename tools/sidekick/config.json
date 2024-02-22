@@ -1,6 +1,6 @@
 {
     "project": "Hutchison Builders",
-    "host": "www.securbankdemo.com",
+    "host": "https://main--hutchison--wfranksadobe.hlx.live/",
     "plugins": [
         {
           "id": "library",
